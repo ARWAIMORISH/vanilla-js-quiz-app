@@ -1,0 +1,11 @@
+.btn{
+    text-align: center;
+    margin-left: 0;
+    margin-top: 0.5%;
+    border: solid 2px tomato;
+    border-radius: 3px;
+}
+form{
+    width: 80%;
+    margin: auto;
+}
